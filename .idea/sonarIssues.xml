@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/ConsumerAndSupplierTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/FunctionsCaso1Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/FunctionsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/OperatorsAndBiFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/PredicateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/applications/app-service/src/main/java/sura/redcomercial/UseCaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/model/src/main/java/sura/redcomercial/domain/agente/gateway/RepositorioAgente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/model/src/main/java/sura/redcomercial/domain/common/ex/BusinessException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/usecase/src/main/java/sura/redcomercial/usecase/agente/OficinasByAgentesUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/usecase/src/test/java/sura/redcomercial/usecase/oficina/TestConsultarOficinaAgenteUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/AgenteDataRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/AgenteOficinaRepositoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/entry-points/reactive-web/src/main/java/sura/redcomercial/web/agente/OficinasByAgentesServicio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/entry-points/reactive-web/src/main/java/sura/redcomercial/web/agente/dto/AgenteListFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/entry-points/reactive-web/src/main/java/sura/redcomercial/web/agente/dto/ConsultarOficinaAgenteDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/entry-points/reactive-web/src/test/java/sura/redcomercial/web/agente/dto/AgenteListFactoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/applications/app-service/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/domain/model/src/main/java/sura/sarlaft4/domain/cliente/Cliente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/domain/model/src/main/java/sura/sarlaft4/domain/evaluacion/Evaluacion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/domain/model/src/main/java/sura/sarlaft4/domain/sarlaft/Sarlaft.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/domain/usecase/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/infraestructure/entry-points/reactive-web/src/main/java/sura/sarlaft4/web/masivo/CargarExcelCargaMasiva.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/sonar.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
