@@ -74,16 +74,54 @@ public class ComposicionFuncionesTest {
 
     static Function<Integer, Integer> operacionUno() {
         return integer -> {
-            System.out.println("Operacion Uno metodo ");
+            System.out.println("Operacion Uno metodo -> " + integer);
             return integer * 3;
         };
     }
 
     static Function<Integer, Integer> operacionDos() {
         return operacionUno().compose(integer -> {
-            System.out.println("Operacion Uno metodo ");
+            System.out.println("Operacion Dos metodo -> " + integer);
              return integer + 1;
         });
     }
+
+
+
+
+
+    @Test
+    public void methodTestTres(){
+
+        // Arrange
+
+
+        // Act
+        System.out.println( "\n " + operacionThreeDos().apply(5));
+
+
+        // Assert
+
+    }
+
+    static Function<String, String> operacionThreeUno() {
+        return integer -> {
+            System.out.println("Operacion Uno metodo -> " + integer);
+            return integer + " EM";
+        };
+    }
+
+    static Function<Integer, String> operacionThreeDos() {
+        return operacionThreeUno().compose(integer -> {
+            System.out.println("Operacion Dos metodo -> " + integer);
+            return "EV!L";
+        });
+    }
+
+
+
+
+
+
 
 }

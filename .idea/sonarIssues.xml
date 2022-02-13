@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/ChainingTest.java">
           <value>
             <set />
@@ -53,6 +58,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/OptionalTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/PredicateTest.java">
           <value>
             <set />
@@ -63,7 +73,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/StreamTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/TypeStreamTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/applications/app-service/src/main/java/sura/redcomercial/UseCaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/model/src/main/java/sura/redcomercial/domain/agente/AsesorRadicadoData.java">
           <value>
             <set />
           </value>
@@ -94,6 +119,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/AgenteOficinaRepositoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/AsesorRadicadoData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/AsesorRadicadoDta.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/OficinasByCodigoAgenteData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/OficinasRadicacionData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/mapper/AgenteRadicadoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/main/java/sura/redcomercial/jpa/agente/mapper/result/AsesorRadicadoResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/test/java/sura/redcomercial/jpa/agente/AgenteRadicadoMapperTest.java">
           <value>
             <set />
           </value>
