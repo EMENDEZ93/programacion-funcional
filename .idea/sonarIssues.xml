@@ -13,6 +13,56 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/Pet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/ReceiptPrinter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/Sect5_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/TwoArgsProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/version2/Receipt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/version2/ReceiptPrinter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/version2/Sect6_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/version2/Sect7a_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter1/version2/StringProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect6_Ex3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/ChainingTest.java">
           <value>
             <set />
@@ -83,12 +133,72 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/bifunction/BiFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/bifunction/OperatorsAndBiFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/FunctionalInterfaceStaticMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/defaults/methods/a/FIDefaultMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/defaults/methods/a/FIDefaultMethodTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/defaults/methods/a/ObjectA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/statics/methods/FunctionalInterfaceStaticMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/statics/methods/a/FIstaticMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/statics/methods/a/FIstaticMethodTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/statics/methods/a/FunctionalInterfaceStaticMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/applications/app-service/src/main/java/sura/redcomercial/UseCaseConfig.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/model/src/main/java/sura/redcomercial/domain/agente/AsesorRadicadoData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/model/src/main/java/sura/redcomercial/domain/agente/DirectorData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/domain/model/src/main/java/sura/redcomercial/domain/agente/OficinasRadicacionData.java">
           <value>
             <set />
           </value>
@@ -153,6 +263,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/test/java/sura/redcomercial/jpa/agente/AgenteRadicadoBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Sarlaft/Repositorios/adm_y_fin-sarlaft-redcomercial-ms/infraestructure/driven-adapters/jpa-repository/src/test/java/sura/redcomercial/jpa/agente/AgenteRadicadoMapperTest.java">
           <value>
             <set />
@@ -199,6 +314,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/domain/usecase/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Sarlaft/sarlaftapi/adm_y_fin-sarlaft-api-ms/infraestructure/driven-adapters/async-messages-senders/src/main/java/sura/sarlaft4/reactive/adapter/comunicacion/ComunicacionAsyncAdapter.java">
           <value>
             <set />
           </value>
