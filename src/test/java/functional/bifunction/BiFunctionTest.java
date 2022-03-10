@@ -73,4 +73,23 @@ public class BiFunctionTest {
         return (text, number) -> String.format("%" + number + "s", text);
     }
 
+    @Test
+    public void biFunctionTresTest(){
+
+        // Arrange
+
+        // Act
+        String resultado = biFunctionTres("2022").apply("java", 5);
+
+        // Assert
+        Assert.assertEquals(" java", resultado);
+
+    }
+
+    public BiFunction<String, Integer, String> biFunctionTres(String valores){
+        System.out.println("Valor externo -> " + valores);
+        return (text, number) -> String.format("%" + number + "s", text);
+    }
+
+
 }

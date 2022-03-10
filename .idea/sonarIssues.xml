@@ -83,12 +83,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter10/Sect1_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/ComputeSquare.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/FI3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/FIVoid.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/ReceiptPrinter.java">
           <value>
             <set />
           </value>
@@ -108,12 +123,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect4_Ex2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect5_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect5_Ex2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect5_Ex4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect5_Ex6.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect5_Ex7.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect6_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/Sect6_Ex3.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/StringProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/TestLambdaScope.java">
           <value>
             <set />
           </value>
@@ -129,6 +184,86 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter2/version2/Sect6_Ex2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter3/Sect5e_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/NumberParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/SalesPromotion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect10_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect1_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect3a_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect3b_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect4_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect5_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Transformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter6/BankTransactions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter6/ConsumerSpecials.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter6/Sect6_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter7/Sect2_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter8/Payroll.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter8/TestMyInts.java">
           <value>
             <set />
           </value>
@@ -223,6 +358,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/and/then/a/FunctionAndThenATest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/compose/a/ComposeATest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/defaults/methods/a/FIDefaultMethod.java">
           <value>
             <set />
@@ -234,6 +379,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/defaults/methods/a/ObjectA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/identity/a/IdentityATest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/parameters/explicit/a/FIExplicitParameter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/parameters/explicit/a/FIExplicitParameterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/parameters/function/ParametesLikeFunctionTest.java">
           <value>
             <set />
           </value>
@@ -264,6 +429,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/voids/a/FIVoidTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/predicate/a/PredicateAndTest.java">
           <value>
             <set />
           </value>
