@@ -233,6 +233,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect6_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect7_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Transformer.java">
           <value>
             <set />
@@ -353,6 +363,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/doubles/a/DoubleFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/interfaces/FunctionalInterfaceStaticMethod.java">
           <value>
             <set />
@@ -433,7 +448,67 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/ints/a/IntFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/longs/a/LongFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/predicate/a/PredicateAndTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/doubles/DoubleToIntFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/doubles/DoubleToLongFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/doubles/ToDoubleFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/ints/IntToDoubleFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/ints/IntToLongFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/ints/ToIntFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/longs/LongToDoubleFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/longs/LongToIntFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/longs/ToLongFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/longs/ToLongFunctionTest.java">
           <value>
             <set />
           </value>
