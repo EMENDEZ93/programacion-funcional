@@ -243,7 +243,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect8_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Sect9_Ex1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter4/Transformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Downloads/functional-interfaces-in-java-master/chapter5/Sect1_Ex1.java">
           <value>
             <set />
           </value>
@@ -473,6 +488,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/doubles/ToDoubleBiFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/to/doubles/ToDoubleFunctionTest.java">
           <value>
             <set />
@@ -484,6 +504,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/to/ints/IntToLongFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/ints/ToIntBiFunctionTest.java">
           <value>
             <set />
           </value>
@@ -503,12 +528,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/to/longs/ToLongBiFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/to/longs/ToLongFunction.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/functional/to/longs/ToLongFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/transformer/a/TransformerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/unary/doubles/DoubleUnaryOperatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/unary/ints/IntUnaryOperatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/functional/unary/longs/LongUnaryOperatorTest.java">
           <value>
             <set />
           </value>
