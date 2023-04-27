@@ -1,9 +1,6 @@
 
 Y
 )src/test/java/OperadorReferenciaTest.java,2\e\2e60367ab6205b42ef8c410ca6a53fb3e4989eab
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 [
 +src/test/java/ComposicionFuncionesTest.java,3\a\3add38935d601a042f267c3206fe2e79cc422a19
 {
